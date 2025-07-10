@@ -7,5 +7,6 @@
    Run command to migrate:  
    ```bash
    dotnet ef database update
-3. **Db will be seeded each run for testing purposes**
+   
+3. **Db will be seeded each run for testing purposes.**
    Comment lines 12 and 13 in Program.cs if you don`t want it.
