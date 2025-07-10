@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
-using hometask5.Models; // заміни на свій namespace
+using hometask5.Models;
 
 namespace hometask5.Data;
 
